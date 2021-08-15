@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kash.
+- 👋 Hi, I’m Kash @kashiapa
 - 👀 I’m interested in the genetics and evolutionary biology of fungi.
 - 🌱 I’m currently learning how to write and publish a scientific paper on gene noise.
 - 💞️ I’m looking to collaborate on finding like minded people.
